@@ -1,2 +1,2 @@
-## Private Cloud-Computing-based IoT Communication System
-- to be continue...
+## Embedded Projects
+- [An IoT System with Cloud Services](https://github.com/microa/Cloud_IoT_System)
